@@ -1,0 +1,16 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Testing and editor files
+.pytest_cache/
+.vscode/
